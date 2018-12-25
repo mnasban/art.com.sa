@@ -21,7 +21,7 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="t0h-4V-tzY">
-                                <rect key="frame" x="0.0" y="107" width="91" height="30"/>
+                                <rect key="frame" x="0.0" y="124" width="91" height="30"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="الرئيسيه"/>
                                 <connections>
@@ -29,7 +29,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="H34-ZO-jQQ">
-                                <rect key="frame" x="0.0" y="219" width="91" height="30"/>
+                                <rect key="frame" x="0.0" y="236" width="91" height="30"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="15"/>
                                 <state key="normal" title="عن لوحات"/>
@@ -38,7 +38,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="K0F-q5-JHU">
-                                <rect key="frame" x="0.0" y="163" width="91" height="30"/>
+                                <rect key="frame" x="0.0" y="180" width="91" height="30"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="اتصل بنا"/>
                                 <connections>
@@ -179,11 +179,11 @@
                                                 <color key="tintColor" cocoaTouchSystemColor="darkTextColor"/>
                                                 <attributedString key="attributedText">
                                                     <fragment>
-                                                        <string key="content">أعد الحياة إلى جدران منزلك ، وأختر لوحتك من ضمن تشكيلة واسعه تشمل كل فنون الرسم والتشكيل أو الصور الفوتوغرافيه لأجمل مناطق المملكة أو حمل صورك الخاصة وبالأختيار مابين طباعتها أو رسمها كاركيتورياً أو بالرصاص لنحولها لك إلى لوحة جميلة بواسطة رسامينا المحترفين .</string>
+                                                        <mutableString key="content">أعد الحياة إلى جدران منزلك ، وأختر لوحتك من ضمن تشكيلة واسعه تشمل كل فنون الرسم والتشكيل أو الصور الفوتوغرافيه لأجمل مناطق المملكة أو حمل صورك الخاصة وبالأختيار مابين طباعتها أو رسمها كاركيتورياً أو بالرصاص لنحولها لك إلى لوحة جميلة بواسطة رسامينا المحترفين .</mutableString>
                                                         <attributes>
                                                             <color key="NSColor" red="0.26051741839999998" green="0.2605243921" blue="0.260520637" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                             <font key="NSFont" size="22" name="AlNile-Bold"/>
-                                                            <paragraphStyle key="NSParagraphStyle" alignment="right" lineBreakMode="wordWrapping" baseWritingDirection="natural" tighteningFactorForTruncation="0.0"/>
+                                                            <paragraphStyle key="NSParagraphStyle" alignment="center" lineBreakMode="wordWrapping" baseWritingDirection="natural" tighteningFactorForTruncation="0.0"/>
                                                         </attributes>
                                                     </fragment>
                                                 </attributedString>
